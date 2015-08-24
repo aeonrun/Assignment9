@@ -1,0 +1,41 @@
+
+	#clock{
+		display:none;
+		width:800px;
+		/*height:100px;*/
+		background: black;
+		color:white;
+		text-align: center;
+		border-radius: 30px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		font-size: 50pt;
+
+
+	}
+
+	#startClock{
+		width:800px;
+		/*height:100px;*/
+		background: black;
+		color:white;
+		text-align: center;
+		border-radius: 30px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		font-size: 50pt;
+
+		cursor:pointer;
+	}
+
+	#demo {
+		margin-left: 200pt;
+		color:black;
+		font-size: 30pt;
+	}
+
+	#year {
+		margin-left: 5pt;
+		color:black;
+		font-size: 30pt;
+	}
